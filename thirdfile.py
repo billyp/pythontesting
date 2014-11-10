@@ -12,6 +12,9 @@ while ans:
     3.Look Up Student Record
     4.Exit/Quit
     """)
+    '''Begin multiline comment
+    Body of multiline comment
+    End of multiline comment'''
     ans=input("What would you like to do? ") 
     if ans=="1": 
       print("\n Student Added") 
