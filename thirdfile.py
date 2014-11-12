@@ -23,6 +23,7 @@ while ans:
     elif ans=="3":
       print("\n Student Record Found") 
     elif ans=="4":
-    	print("\n start over")
+      print("\n Goodbye") 
     elif ans !="":
       print("\n Not Valid Choice Try again") 
+
