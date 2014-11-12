@@ -24,6 +24,7 @@ while ans:
       print("\n Student Record Found") 
     elif ans=="4":
       print("\n Goodbye") 
+      ans=False
     elif ans !="":
       print("\n Not Valid Choice Try again") 
 
